@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+    <title>韓国にLINK!</title>
+    <meta name="description" contest="韓国の情報をお届け！">
+</head>
+<body>
+    <h1>Welcome to LINK</h1>
+    <style>
+        h1{
+        color: #ff0000;
+        font-size: 50px;
+        }
+    </style>
+</body> 
+</script>
+</html>
